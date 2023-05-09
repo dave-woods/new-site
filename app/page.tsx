@@ -7,8 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <Header />
       <div className={styles.description}>
-        <p><Link href="/thesis">Thesis page</Link></p>
-        <p><Link href="/default-cna">Default page</Link></p>
+        <p>Bleep bloop, dis the home page</p>
       </div>
     </main>
   )
