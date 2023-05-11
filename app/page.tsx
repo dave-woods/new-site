@@ -9,7 +9,6 @@ export default function Home() {
   // console.log(theme)
   return (
     <main className={styles.main}>
-      <Header />
       <div className={styles.description}>
         <p>Bleep bloop, dis the home page</p>
       </div>
